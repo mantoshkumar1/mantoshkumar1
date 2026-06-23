@@ -4,7 +4,6 @@ Staff Software Engineer
 
 Building platforms, automation systems, and developer tools that help engineering teams move faster.
 
----
 
 ## About
 
@@ -18,7 +17,6 @@ My career has spanned engineering organizations across India, Germany, and Canad
 
 I hold an M.Sc. in Computer Science from the Technical University of Munich and a Bachelor of Technology in Computer Science.
 
----
 
 ## Current Focus
 
@@ -30,7 +28,7 @@ I hold an M.Sc. in Computer Science from the Technical University of Munich and 
 * Observability
 * AI-Assisted Engineering Tools
 
----
+
 
 ## Featured Projects
 
@@ -72,7 +70,7 @@ Features include:
 
 Currently building a distributed systems project focused on understanding scalability, reliability, event-driven architectures, and system design through implementation.
 
----
+
 
 ## Writing
 
@@ -86,7 +84,7 @@ Topics I write about:
 * AI Engineering
 * Bitcoin and Blockchain
 
----
+
 
 ## Highlights
 
@@ -96,7 +94,7 @@ Topics I write about:
 * Intel Heroes of Tomorrow Award (Twice)
 * GATE Computer Science – Top 1% Nationwide (India)
 
----
+
 
 ## Connect
 
