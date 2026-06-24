@@ -25,7 +25,6 @@ I hold an M.Sc. in Computer Science from the Technical University of Munich and 
 * Backend Development
 * Engineering Productivity
 * Automation Infrastructure
-* Observability
 * AI-Assisted Engineering Tools
 
 
