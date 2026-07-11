@@ -3,7 +3,7 @@
 Staff Software Engineer
 
 Building platforms, automation systems, and developer tools that help engineering teams move faster.<br>
-[Visit My Website](https://mantoshkumar1.github.io/)
+Explore my engineering portfolio: [https://mantoshkumar1.github.io](https://mantoshkumar1.github.io)
 
 ## About
 
