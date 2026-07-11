@@ -3,8 +3,7 @@
 Staff Software Engineer
 
 Building platforms, automation systems, and developer tools that help engineering teams move faster.
-https://github.com/mantoshkumar1/mantoshkumar1.github.io
-
+[Visit My Website](https://mantoshkumar1.github.io/)
 
 ## About
 
@@ -53,15 +52,10 @@ A collection of Python automation tools for repetitive document and workflow tas
 Features include:
 
 * PDF compression
-
-* Image to PDF conversion
-
+* Image-to-PDF conversion
 * Image optimization
-
 * PDF page snapshots
-
 * Batch document processing
-
 * Workflow automation
 
 * Source: https://github.com/mantoshkumar1/automated-Life
@@ -98,6 +92,7 @@ Topics I write about:
 
 ## Connect
 
-* GitHub: github.com/mantoshkumar1
-* LinkedIn: https://www.linkedin.com/in/mantoshk/
-* Website: Coming Soon
+* Website: [mantoshkumar1.github.io](https://mantoshkumar1.github.io/)
+* Email: [mantoshK234@gmail.com](mailto:mantoshK234@gmail.com)
+* LinkedIn: [linkedin.com/in/mantoshk](https://www.linkedin.com/in/mantoshk/)
+* GitHub: [github.com/mantoshkumar1](https://github.com/mantoshkumar1)
