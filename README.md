@@ -2,7 +2,7 @@
 
 Staff Software Engineer
 
-Building platforms, automation systems, and developer tools that help engineering teams move faster.
+Building platforms, automation systems, and developer tools that help engineering teams move faster.<newline>
 [Visit My Website](https://mantoshkumar1.github.io/)
 
 ## About
