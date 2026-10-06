@@ -32,6 +32,13 @@ I hold an M.Sc. in Computer Science from the Technical University of Munich and 
 
 ## Featured Projects
 
+### DogBuild
+
+An evolving project for coordinating coding agents around durable project state, independent review, and human-owned decisions. The repository documents what is running today and what is still planned.
+
+* Overview: https://mantoshkumar1.github.io/projects/dogbuild.html
+* Source: https://github.com/mantoshkumar1/dogbuild
+
 ### PhotoSahi
 
 Generate passport and visa photos that comply with official requirements.
